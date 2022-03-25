@@ -1,8 +1,10 @@
-boto3==1.17.45
+boto3
+calendar
+requests
 botocore==1.20.112
-jmespath==0.10.0
-python-dateutil==2.8.2
-s3transfer==0.3.7
-six==1.16.0
+logging
+json
+base64
+datetime
 slack_sdk==3.11
 urllib3==1.26.6
